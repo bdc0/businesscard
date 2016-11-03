@@ -1,0 +1,22 @@
+Drill report for /Users/bdc/Documents/sensative_and_records/business card/business card.kicad_pcb
+Created on Sunday, October 30, 2016 'PMt' 03:56:29 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'business card.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.80mm  0.031"  (16 holes)
+
+    Total plated holes count 16
+
+
+Drill file 'business card-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

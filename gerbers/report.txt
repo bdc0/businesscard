@@ -1,0 +1,22 @@
+Info: Output directory '/Users/bdc/Documents/sensative_and_records/business card/gerbers' created.
+
+Plot file '/Users/bdc/Documents/sensative_and_records/business card/gerbers/business card-F.Cu.gbr' created.
+Plot file '/Users/bdc/Documents/sensative_and_records/business card/gerbers/business card-B.Cu.gbr' created.
+Plot file '/Users/bdc/Documents/sensative_and_records/business card/gerbers/business card-B.Adhes.gbr' created.
+Plot file '/Users/bdc/Documents/sensative_and_records/business card/gerbers/business card-F.Adhes.gbr' created.
+Plot file '/Users/bdc/Documents/sensative_and_records/business card/gerbers/business card-B.Paste.gbr' created.
+Plot file '/Users/bdc/Documents/sensative_and_records/business card/gerbers/business card-F.Paste.gbr' created.
+Plot file '/Users/bdc/Documents/sensative_and_records/business card/gerbers/business card-B.SilkS.gbr' created.
+Plot file '/Users/bdc/Documents/sensative_and_records/business card/gerbers/business card-F.SilkS.gbr' created.
+Plot file '/Users/bdc/Documents/sensative_and_records/business card/gerbers/business card-B.Mask.gbr' created.
+Plot file '/Users/bdc/Documents/sensative_and_records/business card/gerbers/business card-F.Mask.gbr' created.
+Plot file '/Users/bdc/Documents/sensative_and_records/business card/gerbers/business card-Dwgs.User.gbr' created.
+Plot file '/Users/bdc/Documents/sensative_and_records/business card/gerbers/business card-Cmts.User.gbr' created.
+Plot file '/Users/bdc/Documents/sensative_and_records/business card/gerbers/business card-Eco1.User.gbr' created.
+Plot file '/Users/bdc/Documents/sensative_and_records/business card/gerbers/business card-Eco2.User.gbr' created.
+Plot file '/Users/bdc/Documents/sensative_and_records/business card/gerbers/business card-Edge.Cuts.gbr' created.
+Plot file '/Users/bdc/Documents/sensative_and_records/business card/gerbers/business card-Margin.gbr' created.
+Plot file '/Users/bdc/Documents/sensative_and_records/business card/gerbers/business card-B.CrtYd.gbr' created.
+Plot file '/Users/bdc/Documents/sensative_and_records/business card/gerbers/business card-F.CrtYd.gbr' created.
+Plot file '/Users/bdc/Documents/sensative_and_records/business card/gerbers/business card-B.Fab.gbr' created.
+Plot file '/Users/bdc/Documents/sensative_and_records/business card/gerbers/business card-F.Fab.gbr' created.
