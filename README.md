@@ -1,7 +1,10 @@
 # businesscard
-Brian D Carlton PCB business card
+Brian D. Carlton PCB business card
 
 Files for my PCB business card. Includes <a href="http://kicad-pcb.org/">KiCAD</a> source and Gerbers.
+
+![Image of front side of PCB]
+(https://raw.githubusercontent.com/bdc0/businesscard/master/brian_d_carlton_business_card_font_hidden.png)
 
 ![Image of back side of PCB]
 (https://raw.githubusercontent.com/bdc0/businesscard/master/brian_d_carlton_business_card_back.png)
