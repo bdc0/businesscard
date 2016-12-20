@@ -11,7 +11,7 @@ Back side, no parts:
 ![Image of back side of PCB]
 (https://raw.githubusercontent.com/bdc0/businesscard/master/brian_d_carlton_business_card_back_bare_pcb.png)
 
-If parts were installed, back side:
+If parts were installed (except the two BGAs), back side:
 ![Image of back side of PCA]
 (https://raw.githubusercontent.com/bdc0/businesscard/master/brian_d_carlton_business_card_back.png)
 
